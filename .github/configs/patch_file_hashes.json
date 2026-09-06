@@ -65,9 +65,10 @@
   "dh6k/morphe-patches": {
     "dev": {},
     "stable": {
-      "com.brave.browser_beta": "76a9994ca0b78420ad9f2601cbd289f2",
-      "com.brave.browser_nightly": "76a9994ca0b78420ad9f2601cbd289f2",
-      "shared": "006b9db213da925ec092b2cc2319621a"
+      "com.brave.browser_beta": "62ae75872698973b3097ee2ea2885428",
+      "com.brave.browser_nightly": "62ae75872698973b3097ee2ea2885428",
+      "io.github.jqssun.helium": "40782fc887187cb68189d66dc96154cc",
+      "shared": "0a50131a103ed182be3454f358bac6c5"
     }
   },
   "durgesh0505/chiggi_morphe_patches": {

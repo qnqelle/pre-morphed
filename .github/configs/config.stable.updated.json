@@ -15,7 +15,7 @@
     "dpi": "nodpi anydpi auto"
   },
   "disneyplus-morphe-androidtv": {
-    "enabled": true,
+    "enabled": false,
     "pkg-name": "com.disney.disneyplus",
     "app-name": "disneyplus",
     "rv-brand": "morphe-androidtv",
@@ -27,7 +27,7 @@
     "apkmirror-dlurl": "https://www.apkmirror.com/apk/disney/disney-android-tv"
   },
   "prime-video-morphe-androidtv": {
-    "enabled": true,
+    "enabled": false,
     "pkg-name": "com.amazon.amazonvideo.livingroom",
     "app-name": "prime-video",
     "rv-brand": "morphe-androidtv",
@@ -40,7 +40,7 @@
     "apkmirror-dlurl": "https://www.apkmirror.com/apk/amazon-mobile-llc/prime-video-android-tv-android-tv"
   },
   "hbomax-morphe-androidtv": {
-    "enabled": true,
+    "enabled": false,
     "pkg-name": "com.wbd.hbomax",
     "app-name": "hbomax",
     "rv-brand": "morphe-androidtv",
@@ -52,7 +52,7 @@
     "apkmirror-dlurl": "https://www.apkmirror.com/apk/warnermedia-direct-llc/hbo-max-stream-movies-tv-android-tv"
   },
   "peacock-morphe-androidtv": {
-    "enabled": true,
+    "enabled": false,
     "pkg-name": "com.peacocktv.peacockandroid",
     "app-name": "peacock",
     "rv-brand": "morphe-androidtv",
@@ -65,7 +65,7 @@
     "apkcombo-dlurl": "https://apkcombo.com/peacock-tv/com.peacocktv.peacockandroid"
   },
   "tubi-morphe-androidtv": {
-    "enabled": true,
+    "enabled": false,
     "pkg-name": "com.tubitv",
     "app-name": "tubi",
     "rv-brand": "morphe-androidtv",
@@ -77,7 +77,7 @@
     "apkmirror-dlurl": "https://www.apkmirror.com/apk/tubi-tv/tubi-free-movies-live-tv-android-tv"
   },
   "vix-morphe-androidtv": {
-    "enabled": true,
+    "enabled": false,
     "pkg-name": "com.univision.prendetv",
     "app-name": "vix",
     "rv-brand": "morphe-androidtv",
@@ -89,7 +89,7 @@
     "apkmirror-dlurl": "https://www.apkmirror.com/apk/univision-communications-inc/vix-cine-y-tv-en-espanol-android-tv"
   },
   "plutotv-morphe-androidtv": {
-    "enabled": true,
+    "enabled": false,
     "pkg-name": "tv.pluto.android",
     "app-name": "plutotv",
     "rv-brand": "morphe-androidtv",
@@ -102,7 +102,7 @@
     "uptodown-dlurl": "https://pluto-tv.en.uptodown.com/android"
   },
   "netflix-morphe-androidtv": {
-    "enabled": true,
+    "enabled": false,
     "pkg-name": "com.netflix.ninja",
     "app-name": "netflix",
     "rv-brand": "morphe-androidtv",
@@ -704,7 +704,7 @@
     "apkcombo-dlurl": "https://apkcombo.com/it/strava/com.strava"
   },
   "brave-browser-morphe-beta": {
-    "enabled": false,
+    "enabled": true,
     "pkg-name": "com.brave.browser_beta",
     "app-name": "brave-browser",
     "rv-brand": "morphe-beta",
@@ -721,7 +721,7 @@
     "github-regex": "arm64-v8a: BraveMonoarm64\\.apk | arm-v7a: BraveMonoarm\\.apk"
   },
   "brave-browser-morphe-nightly": {
-    "enabled": false,
+    "enabled": true,
     "pkg-name": "com.brave.browser_nightly",
     "app-name": "brave-browser",
     "rv-brand": "morphe-nightly",
@@ -738,7 +738,7 @@
     "github-regex": "arm64-v8a: BraveMonoarm64\\.apk | arm-v7a: BraveMonoarm\\.apk"
   },
   "titanium-browser-morphe": {
-    "enabled": false,
+    "enabled": true,
     "pkg-name": "io.github.jqssun.helium",
     "app-name": "titanium-browser",
     "rv-brand": "morphe",
