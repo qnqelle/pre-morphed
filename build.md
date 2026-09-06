@@ -1,6 +1,5 @@
-brave-browser-morphe-beta (arm64-v8a): 1.95.96  
-titanium-browser-morphe (arm64-v8a): 152.0.7977.64  
-titanium-browser-morphe (arm-v7a): 152.0.7977.64  
+strava-morphe (arm64-v8a): 477.14  
+strava-morphe (arm-v7a): 477.14  
 
 **Notes:**  
 • Install [MicroG-RE](https://github.com/MorpheApp/MicroG-RE/releases/latest) or [MicroG](https://github.com/ReVanced/GmsCore/releases/latest), required for Google APKs.  
@@ -9,5 +8,5 @@ titanium-browser-morphe (arm-v7a): 152.0.7977.64
 [GitHub](https://github.com/nullcpy/rvb) | [Group](https://t.me/rvb27) | [Donate](https://fahim-ahmed05.github.io/donate) | [Website](https://nullcpy.github.io)
   
 CLI: MorpheApp/morphe-desktop-1.15.0-all.jar  
-Patches: dh6k/patches-1.5.0.mpp  
-[Changelog](https://github.com/dh6k/morphe-patches/releases/tag/v1.5.0)  
+Patches: RookieEnough/patches-1.3.2.mpp  
+[Changelog](https://github.com/RookieEnough/De-Vanced/releases/tag/v1.3.2)  
