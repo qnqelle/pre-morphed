@@ -166,10 +166,10 @@
   },
   "androidtv": {
     "repo": "ajstrick81/morphe-androidtv-patches",
-    "stable": "v1.32.0",
+    "stable": "v1.33.0",
     "prerelease": "v1.5.7-dev.3",
     "blocked": false,
-    "stable_date": "2026-09-06T22:35:10Z",
+    "stable_date": "2026-09-07T19:49:26Z",
     "pre_date": "2026-06-26T16:45:34Z"
   },
   "revenge": {
