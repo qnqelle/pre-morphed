@@ -9,8 +9,8 @@
       "com.tubitv": "ad4cfa4b600c6451571625a911aace33",
       "com.univision.prendetv": "af7f8e042bd4b56df21f80a2c99ac58f",
       "com.wbd.hbomax": "0637750201901bb6687deaebb4cb442e",
-      "shared": "b154363c0b0b629d318163ce4372f9ab",
-      "tv.pluto.android": "25fe673a221a25e3a66b2c405a62b119"
+      "shared": "8ed35b1b7054f3e68e6b6193e4a1fc80",
+      "tv.pluto.android": "781d9171e64a2234606a1e9f42128220"
     }
   },
   "anddea/revanced-patches": {
@@ -152,14 +152,14 @@
   "hxreborn/morphe-patches": {
     "dev": {},
     "stable": {
-      "ch.protonmail.android": "d5dc55e23fef86c28ac5003677b31b4f",
-      "com.michaldrabik.showly2": "6933469dca30278166281a1d6a6abcb2",
-      "shared": "b9ee0e6099e080e647471c65105492b5"
+      "ch.protonmail.android": "b1e7c8c70aa8254bcad587fc9487edaa",
+      "com.michaldrabik.showly2": "3b54f5217f6a93713e1bfe6702a59df7",
+      "shared": "013ca3af12802c213c013ec681e2e761"
     }
   },
   "icysymmetra/tiktok-patches-for-morphe": {
     "dev": {
-      "com.zhiliaoapp.musically": "2fbb4ffda9227bac70c23c5cc28ddd76",
+      "com.zhiliaoapp.musically": "6faa44daed0a6a796462028626eb6605",
       "shared": "4c8e9750b338baa9b2956091fbe5841a"
     },
     "stable": {
