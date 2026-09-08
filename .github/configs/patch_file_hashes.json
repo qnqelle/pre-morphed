@@ -75,7 +75,7 @@
     "dev": {},
     "stable": {
       "com.instagram.barcelona": "8154ad9811995b4f49bbeea5611f6776",
-      "shared": "14f437d10ed6ba722e5359a4bd545a51"
+      "shared": "221afbaf26a44026921f41c0d5c73a81"
     }
   },
   "franticg33k/morphe-patches": {
@@ -170,8 +170,8 @@
   "imxeren/mix-patches": {
     "dev": {},
     "stable": {
-      "shared": "d973fd1d6c4174c73cd0005647a93f16",
-      "tv.trakt.trakt": "8bf588748fb618ba3479d04c1f994d07"
+      "shared": "45b38cffc5cbe2f9f24e24a56fe9acea",
+      "tv.trakt.trakt": "96070b6b79998c52b1785f831bfb27b9"
     }
   },
   "instafel/pc-rel": {

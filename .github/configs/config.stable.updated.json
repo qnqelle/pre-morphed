@@ -422,7 +422,7 @@
     "dpi": "nodpi anydpi auto"
   },
   "trakt-morphe": {
-    "enabled": false,
+    "enabled": true,
     "pkg-name": "tv.trakt.trakt",
     "app-name": "trakt",
     "rv-brand": "morphe",
@@ -1271,7 +1271,7 @@
     "archive-dlurl": "https://archive.org/download/geologically/apks/com.zhiliaoapp.musically"
   },
   "instagram-instafel": {
-    "enabled": false,
+    "enabled": true,
     "pkg-name": "com.instagram.android",
     "app-name": "instagram",
     "rv-brand": "instafel",
@@ -1284,7 +1284,7 @@
     "dpi": "480dpi nodpi anydpi auto"
   },
   "instagram-instafel-clone": {
-    "enabled": false,
+    "enabled": true,
     "pkg-name": "com.instagram.android",
     "app-name": "instagram",
     "rv-brand": "instafel-clone",
