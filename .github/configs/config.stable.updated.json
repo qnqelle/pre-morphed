@@ -15,7 +15,7 @@
     "dpi": "nodpi anydpi auto"
   },
   "disneyplus-morphe-androidtv": {
-    "enabled": true,
+    "enabled": false,
     "pkg-name": "com.disney.disneyplus",
     "app-name": "disneyplus",
     "rv-brand": "morphe-androidtv",
@@ -27,7 +27,7 @@
     "apkmirror-dlurl": "https://www.apkmirror.com/apk/disney/disney-android-tv"
   },
   "prime-video-morphe-androidtv": {
-    "enabled": true,
+    "enabled": false,
     "pkg-name": "com.amazon.amazonvideo.livingroom",
     "app-name": "prime-video",
     "rv-brand": "morphe-androidtv",
@@ -40,7 +40,7 @@
     "apkmirror-dlurl": "https://www.apkmirror.com/apk/amazon-mobile-llc/prime-video-android-tv-android-tv"
   },
   "hbomax-morphe-androidtv": {
-    "enabled": true,
+    "enabled": false,
     "pkg-name": "com.wbd.hbomax",
     "app-name": "hbomax",
     "rv-brand": "morphe-androidtv",
@@ -52,7 +52,7 @@
     "apkmirror-dlurl": "https://www.apkmirror.com/apk/warnermedia-direct-llc/hbo-max-stream-movies-tv-android-tv"
   },
   "peacock-morphe-androidtv": {
-    "enabled": true,
+    "enabled": false,
     "pkg-name": "com.peacocktv.peacockandroid",
     "app-name": "peacock",
     "rv-brand": "morphe-androidtv",
@@ -65,7 +65,7 @@
     "apkcombo-dlurl": "https://apkcombo.com/peacock-tv/com.peacocktv.peacockandroid"
   },
   "tubi-morphe-androidtv": {
-    "enabled": true,
+    "enabled": false,
     "pkg-name": "com.tubitv",
     "app-name": "tubi",
     "rv-brand": "morphe-androidtv",
@@ -77,7 +77,7 @@
     "apkmirror-dlurl": "https://www.apkmirror.com/apk/tubi-tv/tubi-free-movies-live-tv-android-tv"
   },
   "vix-morphe-androidtv": {
-    "enabled": true,
+    "enabled": false,
     "pkg-name": "com.univision.prendetv",
     "app-name": "vix",
     "rv-brand": "morphe-androidtv",
@@ -89,7 +89,7 @@
     "apkmirror-dlurl": "https://www.apkmirror.com/apk/univision-communications-inc/vix-cine-y-tv-en-espanol-android-tv"
   },
   "plutotv-morphe-androidtv": {
-    "enabled": true,
+    "enabled": false,
     "pkg-name": "tv.pluto.android",
     "app-name": "plutotv",
     "rv-brand": "morphe-androidtv",
@@ -102,7 +102,7 @@
     "uptodown-dlurl": "https://pluto-tv.en.uptodown.com/android"
   },
   "netflix-morphe-androidtv": {
-    "enabled": true,
+    "enabled": false,
     "pkg-name": "com.netflix.ninja",
     "app-name": "netflix",
     "rv-brand": "morphe-androidtv",
@@ -1228,7 +1228,7 @@
     "apkcombo-dlurl": "https://apkcombo.com/google-phone/com.google.android.dialer"
   },
   "proton-mail-morphe": {
-    "enabled": false,
+    "enabled": true,
     "pkg-name": "ch.protonmail.android",
     "app-name": "proton-mail",
     "rv-brand": "morphe",
@@ -1244,7 +1244,7 @@
     "archive-dlurl": "https://archive.org/download/geologically/apks/ch.protonmail.android"
   },
   "showly-morphe": {
-    "enabled": false,
+    "enabled": true,
     "pkg-name": "com.michaldrabik.showly2",
     "app-name": "showly",
     "rv-brand": "morphe",
@@ -1979,7 +1979,7 @@
     "apkpure-dlurl": "https://apkpure.com/capcut-video-editor/com.lemon.lvoverseas"
   },
   "adguard-morphe-nightly": {
-    "enabled": false,
+    "enabled": true,
     "pkg-name": "com.adguard.android",
     "app-name": "adguard",
     "rv-brand": "morphe-nightly",
@@ -1992,7 +1992,7 @@
     "dpi": "nodpi anydpi auto"
   },
   "warp-morphe": {
-    "enabled": false,
+    "enabled": true,
     "pkg-name": "com.cloudflare.onedotonedotonedotone",
     "app-name": "warp",
     "rv-brand": "morphe",
@@ -2005,7 +2005,7 @@
     "dpi": "nodpi anydpi auto"
   },
   "hola-vpn-morphe": {
-    "enabled": false,
+    "enabled": true,
     "pkg-name": "org.hola.play",
     "app-name": "hola-vpn",
     "rv-brand": "morphe",
@@ -2019,7 +2019,7 @@
     "apkcombo-dlurl": "https://apkcombo.com/hola-vpn-fast-free-vpn-proxy/org.hola.play"
   },
   "ninja-vpn-morphe": {
-    "enabled": false,
+    "enabled": true,
     "pkg-name": "app.ninjavpn.android",
     "patch-folder": "ninjvapn",
     "app-name": "ninja-vpn",
@@ -2033,7 +2033,7 @@
     "apkcombo-dlurl": "https://apkcombo.com/ninja-vpn-fast-secure-vpn/app.ninjavpn.android"
   },
   "windscribe-vpn-morphe": {
-    "enabled": false,
+    "enabled": true,
     "pkg-name": "com.windscribe.vpn",
     "app-name": "windscribe-vpn",
     "rv-brand": "morphe",
@@ -2061,7 +2061,7 @@
     "uptodown-dlurl": "https://terabox.en.uptodown.com/android"
   },
   "accuweather-morphe": {
-    "enabled": false,
+    "enabled": true,
     "pkg-name": "com.accuweather.android",
     "app-name": "accuweather",
     "rv-brand": "morphe",
@@ -2076,7 +2076,7 @@
     "apkpure-dlurl": "https://apkpure.com/accuweather-weather-radar/com.accuweather.android"
   },
   "the-weather-channel-morphe": {
-    "enabled": false,
+    "enabled": true,
     "pkg-name": "com.weather.Weather",
     "app-name": "the-weather-channel",
     "rv-brand": "morphe",
@@ -2091,7 +2091,7 @@
     "apkpure-dlurl": "https://apkpure.com/the-weather-channel-radar/com.weather.Weather"
   },
   "beta-maniac-morphe": {
-    "enabled": false,
+    "enabled": true,
     "pkg-name": "it.mirko.beta",
     "app-name": "beta-maniac",
     "rv-brand": "morphe",
@@ -2104,7 +2104,7 @@
     "dpi": "nodpi anydpi auto"
   },
   "google-photos-morphe-alt": {
-    "enabled": false,
+    "enabled": true,
     "pkg-name": "com.google.android.apps.photos",
     "app-name": "google-photos",
     "rv-brand": "morphe-alt",
@@ -2118,7 +2118,7 @@
     "dpi": "nodpi anydpi auto"
   },
   "moviebox-morphe": {
-    "enabled": false,
+    "enabled": true,
     "pkg-name": "com.community.oneroom",
     "app-name": "moviebox",
     "rv-brand": "morphe",
@@ -2129,7 +2129,7 @@
     "uptodown-dlurl": "https://com-community-oneroom.en.uptodown.com/android"
   },
   "moviebox-morphe-androidtv": {
-    "enabled": false,
+    "enabled": true,
     "pkg-name": "com.community.mbox.tv",
     "app-name": "moviebox",
     "rv-brand": "morphe-androidtv",
@@ -2140,7 +2140,7 @@
     "cli-source": "MorpheApp/morphe-desktop"
   },
   "messenger-morphe": {
-    "enabled": false,
+    "enabled": true,
     "pkg-name": "com.facebook.orca",
     "app-name": "messenger",
     "rv-brand": "morphe",
@@ -2156,7 +2156,7 @@
     "apkcombo-dlurl": "https://apkcombo.com/facebook-messenger/com.facebook.orca"
   },
   "pocket-casts-morphe": {
-    "enabled": false,
+    "enabled": true,
     "pkg-name": "au.com.shiftyjelly.pocketcasts",
     "app-name": "pocket-casts",
     "rv-brand": "morphe",
@@ -2170,7 +2170,7 @@
     "apkcombo-dlurl": "https://apkcombo.com/pocket-casts/au.com.shiftyjelly.pocketcasts"
   },
   "rar-morphe": {
-    "enabled": false,
+    "enabled": true,
     "pkg-name": "com.rarlab.rar",
     "app-name": "rar",
     "rv-brand": "morphe",
@@ -2185,7 +2185,7 @@
     "apkcombo-dlurl": "https://apkcombo.com/rar/com.rarlab.rar"
   },
   "amazon-india-morphe": {
-    "enabled": false,
+    "enabled": true,
     "pkg-name": "in.amazon.mShop.android.shopping",
     "app-name": "amazon-india",
     "rv-brand": "morphe",
@@ -2200,7 +2200,7 @@
     "apkcombo-dlurl": "https://apkcombo.com/amazon-india-shopping/in.amazon.mShop.android.shopping"
   },
   "calm-morphe": {
-    "enabled": false,
+    "enabled": true,
     "pkg-name": "com.calm.android",
     "app-name": "calm",
     "rv-brand": "morphe",
@@ -2215,7 +2215,7 @@
     "apkcombo-dlurl": "https://apkcombo.com/calm/com.calm.android"
   },
   "bluetooth-keyboard-and-mouse-morphe": {
-    "enabled": false,
+    "enabled": true,
     "pkg-name": "io.appground.blek",
     "app-name": "bluetooth-keyboard-and-mouse",
     "rv-brand": "morphe",
@@ -2245,7 +2245,7 @@
     "apkcombo-dlurl": "https://apkcombo.com/microsoft-swiftkey-ai-keyboard/com.touchtype.swiftkey"
   },
   "macrodroid-morphe-alt": {
-    "enabled": false,
+    "enabled": true,
     "pkg-name": "com.arlosoft.macrodroid",
     "app-name": "macrodroid",
     "rv-brand": "morphe-alt",
@@ -2260,7 +2260,7 @@
     "apkcombo-dlurl": "https://apkcombo.com/macrodroid/com.arlosoft.macrodroid"
   },
   "send-files-to-tv-morphe": {
-    "enabled": false,
+    "enabled": true,
     "pkg-name": "com.yablio.sendfilestotv",
     "app-name": "send-files-to-tv",
     "rv-brand": "morphe",
@@ -2275,7 +2275,7 @@
     "apkcombo-dlurl": "https://apkcombo.com/send-files-to-tv/com.yablio.sendfilestotv"
   },
   "picsart-morphe": {
-    "enabled": false,
+    "enabled": true,
     "pkg-name": "com.picsart.studio",
     "app-name": "picsart",
     "rv-brand": "morphe",
