@@ -1,0 +1,6 @@
+{
+  "version": "v4.14.68 (patches 1.21.5.mpp)",
+  "versionCode": 260016,
+  "zipUrl": "https://github.com/qnqelle/pre-morphed/releases/download/260016/adguard-morphe-nightly-module-v4.14.68-arm64-v8a.zip",
+  "changelog": "https://raw.githubusercontent.com/qnqelle/pre-morphed/update/build.md"
+}
