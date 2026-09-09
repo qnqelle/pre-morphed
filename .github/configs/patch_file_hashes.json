@@ -206,9 +206,9 @@
   "kondratjev/morphe-patches": {
     "dev": {},
     "stable": {
-      "com.fatsecret.android": "d3748db7b1eb4383b6f472c976f55d5f",
-      "com.soundcloud.android": "6e6ed834873d533cd7228680bd5d8fea",
-      "shared": "5d045e29818cb88b682038265dbe6719"
+      "com.fatsecret.android": "2aa92575abb437685695987f5cc8e88a",
+      "com.soundcloud.android": "807fb8391bddea511afc7898a95f679d",
+      "shared": "c51c1c1c21d52a84ed2de1c337c41bf3"
     }
   },
   "kveld9/kveld-morphe-patches": {
@@ -233,10 +233,10 @@
       "shared": "f373a97d0ec843a13d79e1616cded025"
     },
     "stable": {
-      "com.google.android.apps.youtube.music": "1566688fd31cd5b4de87fc0d4c91fbf0",
-      "com.google.android.youtube": "a57d162877a0c59e8c8fef6955a6fdb1",
-      "com.reddit.frontpage": "61dfe9c1ad45610585ea130788620b51",
-      "shared": "a0c2760cca9ea7253161ddeea1afb15b"
+      "com.google.android.apps.youtube.music": "834d27ce912641b037a0ccdf882c16a0",
+      "com.google.android.youtube": "21b2f27295b966e722ea0b2409e74612",
+      "com.reddit.frontpage": "18666d250ecd8f1683931acec86cf41b",
+      "shared": "f73a9490ddbb35af76726c304540f912"
     }
   },
   "paresh-maheshwari/paresh-patches": {
