@@ -223,7 +223,7 @@
     "apkcombo-dlurl": "https://apkcombo.com/youtube-music/com.google.android.apps.youtube.music"
   },
   "reddit-morphe-exp": {
-    "enabled": false,
+    "enabled": true,
     "pkg-name": "com.reddit.frontpage",
     "app-name": "reddit",
     "rv-brand": "morphe-exp",
@@ -237,7 +237,7 @@
     "dpi": "nodpi anydpi auto"
   },
   "reddit-morphe": {
-    "enabled": false,
+    "enabled": true,
     "pkg-name": "com.reddit.frontpage",
     "app-name": "reddit",
     "rv-brand": "morphe",
