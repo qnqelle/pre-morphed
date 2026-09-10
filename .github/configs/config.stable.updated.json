@@ -565,7 +565,7 @@
     "archive-dlurl": "https://archive.org/download/geologically/apks/com.google.android.apps.youtube.music"
   },
   "google-photos-morphe": {
-    "enabled": false,
+    "enabled": true,
     "pkg-name": "com.google.android.apps.photos",
     "app-name": "google-photos",
     "rv-brand": "morphe",
@@ -632,7 +632,7 @@
     "dpi": "nodpi anydpi auto"
   },
   "google-recorder-morphe": {
-    "enabled": false,
+    "enabled": true,
     "pkg-name": "com.google.android.apps.recorder",
     "app-name": "google-recorder",
     "rv-brand": "morphe",
@@ -670,7 +670,7 @@
     "dpi": "nodpi anydpi auto"
   },
   "viber-morphe": {
-    "enabled": false,
+    "enabled": true,
     "app-name": "viber",
     "rv-brand": "morphe",
     "build-mode": "apk",
@@ -693,7 +693,7 @@
     "dpi": "nodpi anydpi auto"
   },
   "strava-morphe": {
-    "enabled": false,
+    "enabled": true,
     "pkg-name": "com.strava",
     "app-name": "strava",
     "rv-brand": "morphe",
@@ -1326,7 +1326,7 @@
     "archive-dlurl": "https://archive.org/download/geologically/apks/com.google.android.inputmethod.latin"
   },
   "calorie-counter-morphe": {
-    "enabled": true,
+    "enabled": false,
     "pkg-name": "com.fatsecret.android",
     "app-name": "calorie-counter",
     "rv-brand": "morphe",
@@ -1341,7 +1341,7 @@
     "apkcombo-dlurl": "https://apkcombo.com/fatsecret/com.fatsecret.android"
   },
   "soundcloud-morphe-alt": {
-    "enabled": true,
+    "enabled": false,
     "pkg-name": "com.soundcloud.android",
     "app-name": "soundcloud",
     "rv-brand": "morphe-alt",
