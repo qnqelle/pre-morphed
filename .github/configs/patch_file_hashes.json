@@ -15,9 +15,9 @@
   },
   "anddea/revanced-patches": {
     "dev": {
-      "com.google.android.apps.youtube.music": "a5696f00c57bb0408877768d55ce13e5",
-      "com.google.android.youtube": "2e25e1856c5ba4a1d194cc933a461500",
-      "shared": "43e9670c90e7d1b4b3962060253ee5df"
+      "com.google.android.apps.youtube.music": "36817ab0b0cfc78d16a9f3e3ddac8500",
+      "com.google.android.youtube": "a57a6443ce30ef49c73d630e78cd282d",
+      "shared": "78a5856192f57b3a46bf8a24ef2a3bf5"
     },
     "stable": {}
   },
@@ -152,9 +152,9 @@
   "hxreborn/morphe-patches": {
     "dev": {},
     "stable": {
-      "ch.protonmail.android": "07e80954a8be0270621665ef31c11601",
-      "com.michaldrabik.showly2": "7427d1abbd1523bb96aa95fffab705ad",
-      "shared": "ce699102a1df3704a1932bd91ed23755"
+      "ch.protonmail.android": "bab4de707e59ed865cdb4899b91a43cd",
+      "com.michaldrabik.showly2": "501859c1f6b58a07361b16db05d6e54b",
+      "shared": "e16b00ac03f565f1f9264401791ad4c4"
     }
   },
   "icysymmetra/tiktok-patches-for-morphe": {
@@ -214,7 +214,7 @@
   "kveld9/kveld-morphe-patches": {
     "dev": {},
     "stable": {
-      "com.brave.browser": "5f63b12b7b71448a086ab42e2866082a",
+      "com.brave.browser": "c448903a6384a8c63295dccc44d90233",
       "shared": "0a127de40cb49e92ce48abc1bbb96125"
     }
   },
@@ -290,10 +290,10 @@
     },
     "stable": {
       "com.adobe.psmobile": "b9667c696d47df8cdce969af2eec1d75",
-      "com.google.android.apps.photos": "4b7d36961bb93f005990762869809ffe",
-      "com.google.android.apps.recorder": "970cd3ac13483a3c65b95a3a241edbc2",
-      "com.strava": "c8c5626631bb541ab7dc61a172a197de",
-      "com.viber.voip": "ef9bf8ea8d1ba833813deb87c01b5ecb",
+      "com.google.android.apps.photos": "235e86c23e3b2e19f5cba5b5af3f466c",
+      "com.google.android.apps.recorder": "e70e3cd9663b4cf744c6cac8d3608967",
+      "com.strava": "38cba2f0c2057df5ff0ea0542dc2c4ac",
+      "com.viber.voip": "461cf1010fe9b6678ede0fd7e11dc5a7",
       "shared": "c7c0b1ab00a768a24f19783c60c69f3b"
     }
   },
