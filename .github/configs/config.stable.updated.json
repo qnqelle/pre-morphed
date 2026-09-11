@@ -565,7 +565,7 @@
     "archive-dlurl": "https://archive.org/download/geologically/apks/com.google.android.apps.youtube.music"
   },
   "google-photos-morphe": {
-    "enabled": true,
+    "enabled": false,
     "pkg-name": "com.google.android.apps.photos",
     "app-name": "google-photos",
     "rv-brand": "morphe",
@@ -632,7 +632,7 @@
     "dpi": "nodpi anydpi auto"
   },
   "google-recorder-morphe": {
-    "enabled": true,
+    "enabled": false,
     "pkg-name": "com.google.android.apps.recorder",
     "app-name": "google-recorder",
     "rv-brand": "morphe",
@@ -670,7 +670,7 @@
     "dpi": "nodpi anydpi auto"
   },
   "viber-morphe": {
-    "enabled": true,
+    "enabled": false,
     "app-name": "viber",
     "rv-brand": "morphe",
     "build-mode": "apk",
@@ -693,7 +693,7 @@
     "dpi": "nodpi anydpi auto"
   },
   "strava-morphe": {
-    "enabled": true,
+    "enabled": false,
     "pkg-name": "com.strava",
     "app-name": "strava",
     "rv-brand": "morphe",
