@@ -231,8 +231,8 @@
   },
   "hxreborn": {
     "repo": "hxreborn/morphe-patches",
-    "stable": "v1.19.1",
-    "stable_date": "2026-09-12T13:55:45Z",
+    "stable": "v1.20.0",
+    "stable_date": "2026-09-12T17:40:50Z",
     "prerelease": "v1.1.0-dev.1",
     "pre_date": "2026-07-19T18:13:41Z",
     "blocked": false
