@@ -8,5 +8,5 @@ showly-morphe (arm-v7a): 3.70.0
 [GitHub](https://github.com/nullcpy/rvb) | [Group](https://t.me/rvb27) | [Donate](https://fahim-ahmed05.github.io/donate) | [Website](https://nullcpy.github.io)
   
 CLI: MorpheApp/morphe-desktop-1.15.1-all.jar  
-Patches: hxreborn/patches-1.19.0.mpp  
-[Changelog](https://github.com/hxreborn/morphe-patches/releases/tag/v1.19.0)  
+Patches: hxreborn/patches-1.19.1.mpp  
+[Changelog](https://github.com/hxreborn/morphe-patches/releases/tag/v1.19.1)  
