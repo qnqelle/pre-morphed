@@ -154,7 +154,7 @@
     "stable": {
       "ch.protonmail.android": "ef8e8c3d44b8e45b0fd27c9abe142792",
       "com.michaldrabik.showly2": "58b5e2ee528a1780c19f47b1d4d72f06",
-      "shared": "cded40702cb2fec192d2f3de100e9258"
+      "shared": "5e7e46b0f544a9cefb3518e504cbe1fa"
     }
   },
   "icysymmetra/tiktok-patches-for-morphe": {
@@ -214,7 +214,7 @@
   "kveld9/kveld-morphe-patches": {
     "dev": {},
     "stable": {
-      "com.brave.browser": "148216dcee0028cfb5d733918967eb3a",
+      "com.brave.browser": "22ec1c8cccf8148baf40c790298e58ec",
       "shared": "0a127de40cb49e92ce48abc1bbb96125"
     }
   },

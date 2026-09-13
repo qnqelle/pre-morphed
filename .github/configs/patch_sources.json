@@ -231,8 +231,8 @@
   },
   "hxreborn": {
     "repo": "hxreborn/morphe-patches",
-    "stable": "v1.20.0",
-    "stable_date": "2026-09-12T17:40:50Z",
+    "stable": "v1.20.1",
+    "stable_date": "2026-09-13T04:21:49Z",
     "prerelease": "v1.1.0-dev.1",
     "pre_date": "2026-07-19T18:13:41Z",
     "blocked": false
@@ -279,8 +279,8 @@
   },
   "kveld9": {
     "repo": "kveld9/kveld-morphe-patches",
-    "stable": "v1.21.2",
-    "stable_date": "2026-09-12T21:20:10Z",
+    "stable": "v1.22.1",
+    "stable_date": "2026-09-13T01:12:16Z",
     "prerelease": "",
     "pre_date": "",
     "blocked": false
