@@ -24,10 +24,10 @@
   "morphe": {
     "repo": "MorpheApp/morphe-patches",
     "stable": "v1.42.0",
-    "prerelease": "v1.43.0-dev.3",
+    "prerelease": "v1.43.0-dev.4",
     "blocked": false,
     "stable_date": "2026-09-09T21:01:44Z",
-    "pre_date": "2026-09-13T10:45:37Z"
+    "pre_date": "2026-09-13T19:00:01Z"
   },
   "piko": {
     "repo": "crimera/piko",
@@ -231,8 +231,8 @@
   },
   "hxreborn": {
     "repo": "hxreborn/morphe-patches",
-    "stable": "v1.20.4",
-    "stable_date": "2026-09-13T15:29:38Z",
+    "stable": "v1.21.0",
+    "stable_date": "2026-09-13T19:40:26Z",
     "prerelease": "v1.1.0-dev.1",
     "pre_date": "2026-07-19T18:13:41Z",
     "blocked": false
@@ -279,8 +279,8 @@
   },
   "kveld9": {
     "repo": "kveld9/kveld-morphe-patches",
-    "stable": "v1.22.1",
-    "stable_date": "2026-09-13T01:12:16Z",
+    "stable": "v1.23.1",
+    "stable_date": "2026-09-13T21:01:16Z",
     "prerelease": "",
     "pre_date": "",
     "blocked": false
