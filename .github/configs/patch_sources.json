@@ -8,10 +8,10 @@
   "devanced": {
     "repo": "RookieEnough/De-Vanced",
     "stable": "v1.4.0",
-    "prerelease": "v1.3.3-dev.1",
+    "prerelease": "v1.4.1-dev.1",
     "blocked": false,
     "stable_date": "2026-09-11T17:03:28Z",
-    "pre_date": "2026-09-10T21:38:43Z"
+    "pre_date": "2026-09-13T09:27:00Z"
   },
   "anddea": {
     "repo": "anddea/revanced-patches",
@@ -24,10 +24,10 @@
   "morphe": {
     "repo": "MorpheApp/morphe-patches",
     "stable": "v1.42.0",
-    "prerelease": "v1.43.0-dev.2",
+    "prerelease": "v1.43.0-dev.3",
     "blocked": false,
     "stable_date": "2026-09-09T21:01:44Z",
-    "pre_date": "2026-09-12T22:06:22Z"
+    "pre_date": "2026-09-13T10:45:37Z"
   },
   "piko": {
     "repo": "crimera/piko",
@@ -192,10 +192,10 @@
     "repo": "IMXEren/mix-patches",
     "host": "gitlab",
     "stable": "v1.7.1",
-    "prerelease": "v1.7.1-dev.1",
+    "prerelease": "v1.7.2-dev.1",
     "blocked": false,
     "stable_date": "2026-09-11T06:02:09.402Z",
-    "pre_date": "2026-09-11T05:42:55.050Z"
+    "pre_date": "2026-09-13T12:18:20.352Z"
   },
   "quantavil": {
     "repo": "quantavil/edge-morphe-patches",
@@ -231,8 +231,8 @@
   },
   "hxreborn": {
     "repo": "hxreborn/morphe-patches",
-    "stable": "v1.20.1",
-    "stable_date": "2026-09-13T04:21:49Z",
+    "stable": "v1.20.2",
+    "stable_date": "2026-09-13T11:32:37Z",
     "prerelease": "v1.1.0-dev.1",
     "pre_date": "2026-07-19T18:13:41Z",
     "blocked": false
