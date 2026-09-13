@@ -52,9 +52,9 @@
   },
   "crimera/piko": {
     "dev": {
-      "com.instagram.android": "39f4535d18f7e0c06201916a319efa97",
-      "com.twitter.android": "dd6a1ad8ce9fdc7ff9d49888b1b688d8",
-      "shared": "76de76cd972bcf5c9be5db53cc41ddc1"
+      "com.instagram.android": "6585a876351a5bbb7190c4aeaaecf5e8",
+      "com.twitter.android": "2eb0a988ba3dd485259160654529decc",
+      "shared": "306a26f969894f9f6eb65156853a889a"
     },
     "stable": {
       "com.instagram.android": "084b5083d2993f8e93436d3ba6df3d7d",
@@ -154,7 +154,7 @@
     "stable": {
       "ch.protonmail.android": "ef8e8c3d44b8e45b0fd27c9abe142792",
       "com.michaldrabik.showly2": "58b5e2ee528a1780c19f47b1d4d72f06",
-      "shared": "692a83a762a1be713d360db235a83eed"
+      "shared": "4f5a6671ab7cef2b974485ae238f12d5"
     }
   },
   "icysymmetra/tiktok-patches-for-morphe": {

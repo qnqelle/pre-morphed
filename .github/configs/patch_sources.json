@@ -32,10 +32,10 @@
   "piko": {
     "repo": "crimera/piko",
     "stable": "v3.9.0",
-    "prerelease": "v3.10.0-dev.6",
+    "prerelease": "v3.10.0-dev.7",
     "blocked": false,
     "stable_date": "2026-08-31T02:40:04Z",
-    "pre_date": "2026-09-10T01:22:23Z"
+    "pre_date": "2026-09-13T18:20:38Z"
   },
   "hoodles": {
     "repo": "hoo-dles/morphe-patches",
@@ -231,8 +231,8 @@
   },
   "hxreborn": {
     "repo": "hxreborn/morphe-patches",
-    "stable": "v1.20.2",
-    "stable_date": "2026-09-13T11:32:37Z",
+    "stable": "v1.20.4",
+    "stable_date": "2026-09-13T15:29:38Z",
     "prerelease": "v1.1.0-dev.1",
     "pre_date": "2026-07-19T18:13:41Z",
     "blocked": false
