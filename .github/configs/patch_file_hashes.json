@@ -152,14 +152,14 @@
   "hxreborn/morphe-patches": {
     "dev": {},
     "stable": {
-      "ch.protonmail.android": "ef8e8c3d44b8e45b0fd27c9abe142792",
-      "com.michaldrabik.showly2": "58b5e2ee528a1780c19f47b1d4d72f06",
-      "shared": "5b8111a32a6bdbc68f7437c0df17d816"
+      "ch.protonmail.android": "e60de2206a377c196ab0869980f053d2",
+      "com.michaldrabik.showly2": "467a225092a9950bf586e4fea6d6ad99",
+      "shared": "242afa0e2bcafca2a672a1ef008aacce"
     }
   },
   "icysymmetra/tiktok-patches-for-morphe": {
     "dev": {
-      "com.zhiliaoapp.musically": "3ce8c7cf74fe1ccf12a6cd8db5a6c05b",
+      "com.zhiliaoapp.musically": "014ffe504c768741eb2cc27c4ac460fa",
       "shared": "4c8e9750b338baa9b2956091fbe5841a"
     },
     "stable": {
@@ -214,8 +214,8 @@
   "kveld9/kveld-morphe-patches": {
     "dev": {},
     "stable": {
-      "com.brave.browser": "22ec1c8cccf8148baf40c790298e58ec",
-      "shared": "f770f13923d320ace36c61af9184a18c"
+      "com.brave.browser": "cb6d3c94e3f818a7221f1e5281cce775",
+      "shared": "fc12671aa86e19c39c70b7612d805b66"
     }
   },
   "liongalahad/nuviotv-morphe-patches": {
@@ -227,16 +227,16 @@
   },
   "morpheapp/morphe-patches": {
     "dev": {
-      "com.google.android.apps.youtube.music": "f57d2fd1c9e95314eaf8a50c42ea8156",
-      "com.google.android.youtube": "49d7d5f129c94e0cd26e7f0ecf21027e",
-      "com.reddit.frontpage": "963b4214951e8c84365b508d2f2c5755",
-      "shared": "b02a223a57d905f4d87e56a8d129b677"
+      "com.google.android.apps.youtube.music": "19b1e85a1fe744379d88acbb94eae675",
+      "com.google.android.youtube": "5d834e29f33359b180ec3f8e5db78cbc",
+      "com.reddit.frontpage": "83b50d08493a31ed2f0a1131467bd767",
+      "shared": "977388f6ceb0081814ddbb699b232b2f"
     },
     "stable": {
-      "com.google.android.apps.youtube.music": "834d27ce912641b037a0ccdf882c16a0",
-      "com.google.android.youtube": "21b2f27295b966e722ea0b2409e74612",
-      "com.reddit.frontpage": "18666d250ecd8f1683931acec86cf41b",
-      "shared": "f73a9490ddbb35af76726c304540f912"
+      "com.google.android.apps.youtube.music": "d0fac8952bcb3c5e898f43a9af93f87c",
+      "com.google.android.youtube": "de563b50d6eef601f4f19bb7452ac7ad",
+      "com.reddit.frontpage": "e9a2ac18b6298ea0203f6c861f462e0e",
+      "shared": "cad2aa13c5398b029e4963588bb4b2c0"
     }
   },
   "paresh-maheshwari/paresh-patches": {
@@ -268,8 +268,8 @@
   "quantavil/edge-morphe-patches": {
     "dev": {},
     "stable": {
-      "com.microsoft.emmx": "151519518665e90765b287d5e90ba3e3",
-      "shared": "0e1237ce0a45c8a07bb403c5e043d2f4"
+      "com.microsoft.emmx": "6aa60cfb49e4185ad36ce7a8641348d2",
+      "shared": "285c206f162c8d5522d4910243aa3d2a"
     }
   },
   "revenge-mod/revenge-xposed": {
